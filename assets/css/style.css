@@ -1,0 +1,108 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* font-family: 'Source Sans Pro', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;1,600&display=swap');
+/* index.html */
+
+body {
+    background-image: url("https://signal.avg.com/hubfs/Blog_Content/Avg/Signal/AVG%20Signal%20Images/Keyloggers%20What%20They%20Are/What_is_a_Keylogger-Thumb.jpg#keepProtocol");
+    background-size: cover;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.img1{
+    width: 500px;
+    border-radius: 50px;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.main img{
+    margin: 50px;
+}
+
+.main h1{
+    margin: 10px;
+}
+
+.footer-index{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* estilo sobre mi */
+header {
+    text-align: center;
+    background-color: #E6E6E6;
+}
+
+
+section ul li span {
+    font-weight: bold;
+}
+
+div {
+    height: 100px;
+    background-color: white;
+}
+
+header h1 {
+    background-color: #C4C4C4;
+    color: #005677;
+}
+
+
+section h2 {
+    background-color: #C4C4C4;
+    color: #005677;
+}
+
+section {
+    height: 150px;
+}
+
+/* footer p {
+    text-align: center;
+    background-color: #005677;
+    color: white;
+} */
+
+.section2 ul {
+    list-style-type: none;
+}
+
+.section3 ul {
+    list-style-type: none;
+}
+
+section ul {
+    margin-top: 30px;
+}
+
+main {
+    text-align: left;
+}
